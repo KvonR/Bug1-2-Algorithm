@@ -54,11 +54,10 @@ The comparative analysis between Bug 1 and Bug 2 provides insights into the trad
 Both Bug 1 and Bug 2 algorithms exhibit the potential to navigate complex environments and reach designated goals efficiently. The choice between the two depends on the specific requirements of the environment and the desired balance between simplicity and efficiency. By understanding the strengths and limitations of each algorithm, developers can make informed decisions to optimise each algorithm to their needs.
 
 ### Screenshots from both solutions:
+                                                                Bug 1 Algorithm
 
 ![Untitled](Project%20Report%20Navigating%20a%20Mobile%20Robot%20Using%20Bug%201ffd9a5fe65b48c5b9e16520671d3156/Untitled.png)
 
-                                                                Bug 1 Algorithm
+                                                                Bug 2 Algorithm
 
 ![Untitled](Project%20Report%20Navigating%20a%20Mobile%20Robot%20Using%20Bug%201ffd9a5fe65b48c5b9e16520671d3156/Untitled%201.png)
-
-                                                                Bug 2 Algorithm
