@@ -1,6 +1,6 @@
 # Project Report: Navigating a Mobile Robot Using Bug 1 & Bug 2 Algorithms in Webots
 
-**Author**: K Rahimi 
+**Author**: K R 
 
 **Date**: January 2024
 
